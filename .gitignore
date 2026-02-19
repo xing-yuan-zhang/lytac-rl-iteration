@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.npy
+*.pt
+*.ckpt
+*.log
