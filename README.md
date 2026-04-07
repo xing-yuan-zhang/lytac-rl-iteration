@@ -1,6 +1,6 @@
 # Policy optimization for drug like SMILES generation
 
-This repository documents an exploratory project in our lab built on our submitted work *Cell-Selective and Organ-Specific Lysosomal Degradation of αv Integrins in Renal Fibrosis*.
+Code for the course project of Stanford CS238 (Autumn 2025).
 
 The goal is to prototype an RL-assisted iteration loop for designing LYTAC–related small-molecule/linker motifs in SMILES space, where reinforcement learning nudges a generative prior toward more drug-like and constraint-satisfying candidates.
 
